@@ -3,7 +3,11 @@ RASA YANG PERLAHAN MULAI MENGHILANG
 --rasa yang telah ada sejak sekian lama 
   > rasa ini telah da sejak 9 bulan yang lalu
   > semenjak ak duduk dibangku sma
+     ^ belajar nerimo
+     ^ rect
 ----fun
 -namun tak memeiliki tujuan yang pasti
+     ^ need peta
 ---seiring berjalanya waktu....
 --rasa ini perlahan memudar
+--jadi asin
