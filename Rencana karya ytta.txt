@@ -3,7 +3,9 @@ RASA YANG PERLAHAN MULAI MENGHILANG
 --rasa yang telah ada sejak sekian lama 
   > rasa ini telah da sejak 9 bulan yang lalu
   > semenjak ak duduk dibangku sma
-----fun
+    ^ menjauh
+    ^ jadi gini
 -namun tak memeiliki tujuan yang pasti
+   ^ laravel
 ---seiring berjalanya waktu....
 --rasa ini perlahan memudar
